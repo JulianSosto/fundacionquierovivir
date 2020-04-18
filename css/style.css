@@ -442,7 +442,8 @@ ul {
 #feature {
 	padding-top:auto;
 	background:#fff;
-	padding-bottom:50px;
+  margin-top: 35px;
+  margin-bottom: 35px
 }
 
 .hi-icon-effect {
@@ -506,8 +507,8 @@ list-style-type: none;
 *******services******
 **************************/
 #gallery {
-	padding-top:70px;
-	padding-bottom:70px;
+	padding-top:35px;
+	padding-bottom:35px;
 	background:#f4f4f4;
 }
 #gallery img {
@@ -813,8 +814,8 @@ figure.effect-chico:hover img {
 *******our team******
 **************************/
 #our-team {
-	padding-top:70px;
-	padding-bottom:70px;
+	padding-top:35px;
+  padding-bottom:35px;
 	background:#f4f4f4;
 }
 
@@ -842,8 +843,8 @@ footer {
 
 #contact {
 	background: #fafafa;
-	padding-top:70px;
-	padding-bottom:80px;
+	padding-top:35px;
+	padding-bottom:35px;
 }
 
 
@@ -881,12 +882,12 @@ footer {
 
 #contact .text-center {
 	padding-top:20px;
-	margin-bottom:30px;
+	margin-bottom:5px;
 	padding-bottom:10px;
 }
 
 #contact ul {
-	list-style:none;
+	list-style:none;bottom
 	margin-left:-40px;
 	font-size:13px;
 }
