@@ -209,6 +209,40 @@ ul {
 }
 
 
+.form-group button a:link {
+text-decoration: none!important;
+color:white!important;
+}
+
+.form-group button a:hover {
+  text-decoration: none!important;
+  color:white!important;
+  }
+
+  .form-group button a:visited {
+    text-decoration: none!important;
+    color:white!important;
+    }
+
+    
+    @media only screen and (max-width: 320px) {
+      .fadeInUp p {
+        font-size: 12px!important;
+        margin-top: 7px!important;
+      }
+
+      .fqv h2 span {
+        font-size: 20px!important;
+      }
+
+      .carousel-inner .btn-primary {
+        margin-top: 0px !important;        
+      }
+    
+    }
+
+
+
 
 /*************************
 *******Slider******
@@ -370,23 +404,12 @@ ul {
   }
 }
 
+
+
 @media (max-width: 575px) {
   .carousel-caption {
     top: -40px;
   }
-
-
-
- /*Background color desde MObile L
-  @media screen and (max-width: 600px) {
-    p {
-     background-color: #111!important;
-    }
-  }*/
-
-
-
-
   .carousel-caption  h2, .carousel-caption  h2 span {
     font-size: 24px;
   }
